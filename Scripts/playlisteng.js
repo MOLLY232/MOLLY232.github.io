@@ -35,28 +35,19 @@ trackList = [
 		src:"eng_music/Ed Sheeran - Shape of You [Official Video].mp3"
 	},
 	{
-		name:"Ed Sheeran - The A Team [Official Video]",
+		name:"Ed Sheeran - 2step ft Lil Baby  Official Video",
 		artist:"Ed Sheeran",
-		src:"eng_music/Ed Sheeran - The A Team [Official Video].mp3"
+		src:"eng_music/Ed Sheeran - 2step ft Lil Baby  Official Video.mp3"
 	},
 	{
-		name:"Ed Sheeran - Thinking Out Loud [Official Video]",
+		name:"Ed Sheeran - Shivers Official Video",
 		artist:"Ed Sheeran",
-		src:"eng_music/Ed Sheeran - Thinking Out Loud [Official Video].mp3"
+		src:"eng_music/Ed Sheeran - Shivers Official Video.mp3"
 	},
+
 	{
-		name:"Lukas Graham - 7 Years [OFFICIAL MUSIC VIDEO]",
-		artist:"Lukas Graham",
-		src:"eng_music/Lukas Graham - 7 Years [OFFICIAL MUSIC VIDEO].mp3"
-	},
-	{
-		name:"Lukas Graham - Love Someone [OFFICIAL MUSIC VIDEO]",
-		artist:"Lukas Graham",
-		src:"eng_music/Lukas Graham - Love Someone [OFFICIAL MUSIC VIDEO].mp3"
-	},
-	{
-		name:"What Do I Know - Ed Sheeran [Lyric]",
+		name:"Ed Sheeran Greatest Hits Full Album 2022   Ed Sheeran Best Songs Playlist 2022",
 		artist:"Ed Sheeran",
-		src:"eng_music/What Do I Know - Ed Sheeran [Lyric].mp3"
+		src:"eng_music/Ed Sheeran Greatest Hits Full Album 2022   Ed Sheeran Best Songs Playlist 2022.mp3"
 	}
 ];
