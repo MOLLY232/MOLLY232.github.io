@@ -35,11 +35,7 @@ trackList = [
 		src:"MMM/韋禮安/韋禮安 Get Outta My Head.mp3"
 
 	},
-	{
-		name:"One Direction History Official Video",
-		artist:"One Direction",
-		src:"zayn/yt1s.com - One Direction History Official Video.mp3"
-	},
+
 	{
 		name:"韋禮安 Im More Sober When Im Drunk", 
 		artist:"韋禮安", 
