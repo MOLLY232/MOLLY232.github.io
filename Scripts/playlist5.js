@@ -1,33 +1,39 @@
 trackList = [
 	{
-		name:"Harry Styles She Official Audio",
-		artist:"harry styles",
-		src:"zayn/yt1s.com - Harry Styles She Official Audio.mp3"
+		name:"陳零九 Nine Chen feat 韋禮安 WeiBird再也不要 Never AgainOfficial Music Video 4K", 
+		artist:"韋禮安",
+		src:"MMM/韋禮安/陳零九 Nine Chen feat 韋禮安 WeiBird再也不要 Never AgainOfficial Music Video 4K.mp3"
+
 	},
 	{
-		name:"Justin Bieber Anyone",
-		artist:"Justin Bieber",
-		src:"zayn/yt1s.com - Justin Bieber Anyone.mp3"
+		name:"韋禮安  心醉心碎 官方完整版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安  心醉心碎 官方完整版MV.mp3"
+
 	},
 	{
-		name:"Louis Tomlinson Defenceless Official Lyric Video",
-		artist:"Louis Tomlinson",
-		src:"zayn/yt1s.com - Louis Tomlinson Defenceless Official Lyric Video.mp3"
+		name:"韋禮安  累 官方完整版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安  累 官方完整版MV.mp3"
+
 	},
 	{
-		name:"Major Lazer Cold Water feat Justin Bieber MØ Official Dance Video",
-		artist:"Major Lazer",
-		src:"zayn/yt1s.com - Major Lazer Cold Water feat Justin Bieber MØ Official Dance Video.mp3"
+		name:"韋禮安 Cheap Love", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Cheap Love.mp3"
+
 	},
 	{
-		name:"One Direction 18 Audio",
-		artist:"One Direction",
-		src:"zayn/yt1s.com - One Direction 18 Audio.mp3"
+		name:"韋禮安 Dont Show It", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Dont Show It.mp3"
+
 	},
 	{
-		name:"One Direction Best Song Ever",
-		artist:"One Direction",
-		src:"zayn/yt1s.com - One Direction Best Song Ever.mp3"
+		name:"韋禮安 Get Outta My Head", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Get Outta My Head.mp3"
+
 	},
 	{
 		name:"One Direction History Official Video",
@@ -35,298 +41,178 @@ trackList = [
 		src:"zayn/yt1s.com - One Direction History Official Video.mp3"
 	},
 	{
-		name:"One Direction You I",
-		artist:"One Direction",
-		src:"zayn/yt1s.com - One Direction You I.mp3"
+		name:"韋禮安 Im More Sober When Im Drunk", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Im More Sober When Im Drunk.mp3"
+
 	},
 	{
-		name:"One Direction Little Things",
-		artist:"One Direction",
-		src:"zayn/yt1s.com - One Direction Little Things.mp3"
+		name:"韋禮安 Is It Not Enough", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Is It Not Enough.mp3"
+
 	},
 	{
-		name:"R3HAB ZAYN Jungleboi Flames Official Music Video",
-		artist:"ZAYN",
-		src:"zayn/yt1s.com - R3HAB ZAYN Jungleboi Flames Official Music Video.mp3"
+		name:"韋禮安 Leave This Bed", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Leave This Bed.mp3"
+
 	},
 	{
-		name:"Snakehips Cruel Official Video ft ZAYN",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - Snakehips Cruel Official Video ft ZAYN.mp3"
+		name:"韋禮安 Typo", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Typo.mp3"
+
 	},
 	{
-		name:"ZAYN All That Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN All That Audio.mp3"
+		name:"韋禮安 U", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 U.mp3"
+
 	},
 	{
-		name:"ZAYN Back To Life Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Back To Life Audio.mp3"
+		name:"韋禮安 Weibird Wei  不需要知道 You Dont Need to Know官方版MV 電視劇我的男孩片尾曲韓劇你太過分了片頭曲", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  不需要知道 You Dont Need to Know官方版MV 電視劇我的男孩片尾曲韓劇你太過分了片頭曲.mp3"
+
 	},
 	{
-		name:"ZAYN Becky G Un mundo ideal Versión Créditos De AladdínOfficial Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Becky G Un mundo ideal Versión Créditos De AladdínOfficial Video.mp3"
+		name:"韋禮安 Weibird Wei  在你身邊 By Your Side 官方版MV  2014美國棉年度代言主題曲", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  在你身邊 By Your Side 官方版MV  2014美國棉年度代言主題曲.mp3"
+
 	},
 	{
-		name:"ZAYN BeFoUr",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN BeFoUr.mp3"
+		name:"韋禮安 Weibird Wei  在意 What You Think Of Me 官方版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  在意 What You Think Of Me 官方版MV.mp3"
+
 	},
 	{
-		name:"ZAYN BLUE",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN BLUE Lyric Video.mp3"
+		name:"韋禮安 Weibird Wei  慢慢等 官方版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  慢慢等 官方版MV.mp3"
+
 	},
 	{
-		name:"ZAYN BoRdErSz",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN BoRdErSz Lyric Video.mp3"
+		name:"韋禮安 Weibird Wei  有人在等我 官方版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  有人在等我 官方版MV.mp3"
+
 	},
 	{
-		name:"ZAYN BRIGHT Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN BRIGHT Lyric Video.mp3"
+		name:"韋禮安 Weibird Wei  有沒有 官方版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  有沒有 官方版MV.mp3"
+
 	},
 	{
-		name:"ZAYN Calamity Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Calamity Audio.mp3"
+		name:"韋禮安 Weibird Wei  狼 Wolves 官方版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  狼 Wolves 官方版MV.mp3"
+
 	},
 {
-		name:"Zayn Cant Help Falling in Love Cover",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - Zayn Cant Help Falling in Love Cover.mp3"
+		name:"韋禮安 Weibird Wei  第一個想到你  Think Of You First 官方歌詞版  電視劇 後菜鳥的燦爛時代片尾曲", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  第一個想到你  Think Of You First 官方歌詞版  電視劇 後菜鳥的燦爛時代片尾曲.mp3"
+
 	},
 	{
-		name:"ZAYN Back To Life Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Back To Life Audio.mp3"
+		name:"韋禮安 Weibird Wei  第一個想到你 Think Of You First 官方版MV  電視劇 後菜鳥的燦爛時代片尾曲", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  第一個想到你 Think Of You First 官方版MV  電視劇 後菜鳥的燦爛時代片尾曲.mp3"
+
 	},
 	{
-		name:"ZAYN Common Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Common Audio.mp3"
+		name:"韋禮安 Weibird Wei  面具 Mask 官方版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 Weibird Wei  面具 Mask 官方版MV.mp3"
+
 	},
 	{
-		name:"ZAYN Connexion Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Connexion Audio.mp3"
+		name:"韋禮安 WeiBirdRIPOfficial Lyric Video", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBirdRIPOfficial Lyric Video.mp3"
+
 	},
 	{
-		name:"ZAYN dRuNk Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN dRuNk Lyric Video.mp3"
+		name:"韋禮安 WeiBird不用告訴我 Dont TellOfficial Music Video  東森戲劇台韓劇巧克力片尾曲", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird不用告訴我 Dont TellOfficial Music Video  東森戲劇台韓劇巧克力片尾曲.mp3"
+
 	},
 	{
-		name:"ZAYN Dusk Till Dawn ft Sia Official Music Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Dusk Till Dawn ft Sia Official Music Video.mp3"
+		name:"韋禮安 WeiBird創作精選20首串燒KKBOX風雲榜", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird創作精選20首串燒KKBOX風雲榜.mp3"
+
 	},
 	{
-		name:"ZAYN Entertainer Official Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Entertainer Official Video.mp3"
+		name:"韋禮安 WeiBird因為是你 Just Stay with MeMV  公視  myVideo 原創影集火神的眼淚片頭曲", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird因為是你 Just Stay with MeMV  公視  myVideo 原創影集火神的眼淚片頭曲.mp3"
+
 	},
 	{
-		name:"ZAYN Fingers Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Fingers Lyric Video.mp3"
+		name:"韋禮安 WeiBird忽然 SuddenlyOfficial Lyric Video", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird忽然 SuddenlyOfficial Lyric Video.mp3"
+
 	},
 	{
-		name:"ZAYN Flight Of The Stars Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Flight Of The Stars Audio.mp3"
+		name:"韋禮安 WeiBird而立 At Thirty官方歌詞版 Official Lyric Video而立世界巡迴演唱會主題曲", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird而立 At Thirty官方歌詞版 Official Lyric Video而立世界巡迴演唱會主題曲.mp3"
+
 	},
 	{
-		name:"ZAYN fOoL fOr YoU Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN fOoL fOr YoU Lyric Video.mp3"
+		name:"韋禮安 WeiBird記得回來 Ill Be HereOfficial Music Video", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird記得回來 Ill Be HereOfficial Music Video.mp3"
+
 	},
 	{
-		name:"ZAYN Fresh Air Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Fresh Air Audio.mp3"
+		name:"韋禮安 WeiBird貓咪共和國 Cat RepublicOfficial Music Video", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird貓咪共和國 Cat RepublicOfficial Music Video.mp3"
+
 	},
 	{
-		name:"ZAYN Good Guy Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Good Guy Audio.mp3"
+		name:"韋禮安 WeiBird赤い糸MV 電影月老主題曲如果可以日文版", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird赤い糸MV 電影月老主題曲如果可以日文版.mp3"
+
 	},
 	{
-		name:"ZAYN Good Years Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Good Years Audio.mp3"
+		name:"韋禮安 WeiBird這樣好嗎 How About ThisOfficial Music Video", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 WeiBird這樣好嗎 How About ThisOfficial Music Video.mp3"
+
 	},
 	{
-		name:"ZAYN I Dont Mind Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN I Dont Mind Audio.mp3"
+		name:"韋禮安 女孩 歌詞", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 女孩 歌詞.mp3"
+
 	},
 	{
-		name:"ZAYN If I Got You Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN If I Got You Audio.mp3"
+		name:"韋禮安 翻唱韋禮安如果可以WeiBird Cover", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 翻唱韋禮安如果可以WeiBird Cover.mp3"
+
 	},
 	{
-		name:"ZAYN Imprint Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Imprint Audio.mp3"
+		name:"韋禮安 雙棲動物", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安 雙棲動物.mp3"
+
 	},
+
 	{
-		name:"ZAYN Insomnia Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Insomnia Audio.mp3"
-	},
-	{
-		name:"ZAYN INTERMISSION fLoWer Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN INTERMISSION fLoWer Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN iTs YoU",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN iTs YoU.mp3"
-	},
-	{
-		name:"ZAYN Let Me Official Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Let Me Official Video.mp3"
-	},
-	{
-		name:"ZAYN LIKE I WOULD",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN LIKE I WOULD.mp3"
-	},
-	{
-		name:"ZAYN lUcOzAdE Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN lUcOzAdE Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN Natural Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Natural Audio.mp3"
-	},
-	{
-		name:"ZAYN Outside Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Outside Audio.mp3"
-	},
-	{
-		name:"ZAYN PILLOWTALK Official Music Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN PILLOWTALK Official Music Video.mp3"
-	},
-	{
-		name:"ZAYN Rainberry Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Rainberry Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN rEaR vIeW Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN rEaR vIeW Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN River Road Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN River Road Audio.mp3"
-	},
-	{
-		name:"ZAYN Satisfaction Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Satisfaction Audio.mp3"
-	},
-	{
-		name:"ZAYN Scripted Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Scripted Audio.mp3"
-	},
-	{
-		name:"ZAYN SHE DONT LOVE ME Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN SHE DONT LOVE ME Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN sHe Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN sHe Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN Sour Diesel",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Sour Diesel.mp3"
-	},
-	{
-		name:"ZAYN Stand Still Official Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Stand Still Official Video.mp3"
-	},
-	{
-		name:"ZAYN Sweat Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Sweat Audio.mp3"
-	},
-	{
-		name:"ZAYN Talk To Me Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Talk To Me Audio.mp3"
-	},
-	{
-		name:"ZAYN Taylor Swift I Dont Wanna Live Forever Fifty Shades Darker",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Taylor Swift I Dont Wanna Live Forever Fifty Shades Darker.mp3"
-	},
-	{
-		name:"ZAYN There You Are Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN There You Are Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN TiO Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN TiO Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN Too Much ft Timbaland",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Too Much ft Timbaland.mp3"
-	},
-	{
-		name:"ZAYN tRuTh Lyric Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN tRuTh Lyric Video.mp3"
-	},
-	{
-		name:"ZAYN Unfkwitable Lyrics",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Unfkwitable Lyrics.mp3"
-	},
-	{
-		name:"ZAYN Vibez Official Video",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Vibez Official Video.mp3"
-	},
-	{
-		name:"ZAYN When Loves Around Audio ft Syd",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN When Loves Around Audio ft Syd.mp3"
-	},
-	{
-		name:"ZAYN Windowsill Audio ft Devlin",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN Windowsill Audio ft Devlin.mp3"
-	},
-	{
-		name:"ZAYN wRoNg Lyric Video ft Kehlani",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN wRoNg Lyric Video ft Kehlani.mp3"
-	},
-	{
-		name:"ZAYN You Wish You Knew Audio",
-		artist:"Zayn",
-		src:"zayn/yt1s.com - ZAYN You Wish You Knew Audio.mp3"
+		name:"韋禮安還是會我可能不會愛你OST官方完整版MV", 
+		artist:"韋禮安", 
+		src:"MMM/韋禮安/韋禮安還是會我可能不會愛你OST官方完整版MV.mp3"
+
 	}
 ];
