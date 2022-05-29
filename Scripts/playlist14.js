@@ -6,7 +6,6 @@ trackList = [
 	{
 	name:"Christian French  I Think Too Much Lyrics (1).mp3", artist:"ENG", src:"MMM/英文歌/Christian French  I Think Too Much Lyrics (1).mp3"
 
-
 	},
 	{
 	name:"David Kushner  Mr Forgettable Official Audio.mp3", artist:"ENG", src:"MMM/英文歌/David Kushner  Mr Forgettable Official Audio.mp3"
@@ -56,18 +55,15 @@ trackList = [
   	{
 	name:"Jonas Blue Why Dont We  Dont Wake Me Up Official Video.mp3", artist:"ENG", src:"MMM/英文歌/Jonas Blue Why Dont We  Dont Wake Me Up Official Video.mp3"
 
-
 	},
   
   	{
 	name:"Gryffin  OneRepublic  You Were Loved Official Video.mp3", artist:"ENG", src:"MMM/英文歌/Gryffin  OneRepublic  You Were Loved Official Video.mp3"
 
-
 	},
   
   	{
 	name:"Lauv  Love Like That Official Audio.mp3", artist:"ENG", src:"MMM/英文歌/Lauv  Love Like That Official Audio.mp3"
-
 
 	},
   
@@ -88,7 +84,6 @@ trackList = [
   
     	{
 	name:"Nick Jonas  Selfish ft Jonas Brothers Audio.mp3", artist:"ENG", src:"MMM/英文歌/Nick Jonas  Selfish ft Jonas Brothers Audio.mp3"
-
 
 	},
   
@@ -143,7 +138,6 @@ trackList = [
   
       	{
 	name:"Shawn Mendes  When Youre Gone.mp3", artist:"ENG", src:"MMM/英文歌/Shawn Mendes  When Youre Gone.mp3"
-
 
 	},
   
