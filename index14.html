@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>英文歌</title>
+  <meta charset="UTF-8">
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <a href = "index.html">首頁</a>
+  <a href = "index5.html">安安</a>
+  <a href = "index11.html">棉花糖</a>
+
+  
+  <div id="container">
+    <audio id="audio">
+      <source id="sourceMP3" src="" type="audio/ogg">
+    </audio>
+
+    <div id="wrapper">
+      <!-- Track information-->
+      <div id="trackInfo">
+        <div id="titleText">.</div>
+        <div id="albumText">.</div>
+        <div id="artistText">.</div>
+      </div>
+
+      <div id="timeInfo">
+        <div><div id="timeBar"><div class="filler"></div></div></div>
+        <div id="timeText"></div>
+      </div>
+
+      <!-- Controls -->
+      <div id="controls">
+        <div class="button" id="playBtn"><img src="Icon/32/play-32.png"></div>
+        <div class="button" id="randomBtn"><img src="Icon/32/random-32.png"></div>
+        <div class="button" id="previousBtn"><img src="Icon/32/rewind-32.png"></div>
+        <div class="button" id="nextBtn"><img src="Icon/32/forward-32.png"></div>
+        <div id="volumeIcon"><img src="Icon/32/volume-32.png"></div>
+        <div><div id="volumeSlider"><div class="filler"></div></div></div>
+      </div>
+  </div>
+</div>
+  <div id = "slideContainer"></br></div>
+
+  <script src="Scripts/sliderfy.js"></script>
+  <script src="Scripts/playlist14.js"></script>
+  <script src="Scripts/controls.js"></script>
+
+</body>
+
+</html>
