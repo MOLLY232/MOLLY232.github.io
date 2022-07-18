@@ -32,9 +32,7 @@ trackList = [
 
 	},
   
-  
 	{
 	name:"怕胖團PAPUN BAND 時間的奴.mp3", artist:"怕胖團", src:"MMM/怕胖團/怕胖團PAPUN BAND 時間的奴.mp3"
-
 	}
 ];
