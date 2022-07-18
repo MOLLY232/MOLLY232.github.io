@@ -39,9 +39,6 @@ trackList = [
 	name:"Coldplay  Yellow Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay  Yellow Official Video.mp3"
 	},
     	{
-	name:"Coldplay Greatest Hits  Best Of Coldplay Playlist 2022  My Universe Clocks The Scientist.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay Greatest Hits  Best Of Coldplay Playlist 2022  My Universe Clocks The Scientist.mp3"
-	},
-    	{
 	name:"Coldplay X Selena Gomez  Let Somebody Go Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay X Selena Gomez  Let Somebody Go Official Video.mp3"
 	},
   	 {
