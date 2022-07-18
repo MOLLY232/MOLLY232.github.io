@@ -16,7 +16,6 @@ trackList = [
 	{
 	name:"Coldplay  Hymn For The Weekend Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay  Hymn For The Weekend Official Video.mp3"
 
-
 	},
 	{
 	name:"Coldplay  In My Place Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay  In My Place Official Video.mp3"
@@ -42,7 +41,7 @@ trackList = [
 	name:"Coldplay X Selena Gomez  Let Somebody Go Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay X Selena Gomez  Let Somebody Go Official Video.mp3"
 	},
   	 {
-	name:"The Chainsmokers  Coldplay  Something Just Like This Lyric.mp3'", artist:"Coldplay", src:"MMM/Coldplay/The Chainsmokers  Coldplay  Something Just Like This Lyric.mp3'"
+	name:"The Chainsmokers  Coldplay  Something Just Like This Lyric.mp3'", artist:"Coldplay", src:"MMM/Coldplay/The Chainsmokers  Coldplay  Something Just Like This Lyric.mp3"
 	},
   	{
 	name:"Coldplay  Viva La Vida Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay  Viva La Vida Official Video.mp3"
