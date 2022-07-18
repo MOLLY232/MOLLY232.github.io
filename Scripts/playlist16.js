@@ -28,7 +28,6 @@ trackList = [
   
   	{
 	name:"Coldplay  The Scientist Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay  The Scientist Official Video.mp3"
-
 	},
   
   	{
@@ -45,6 +44,5 @@ trackList = [
 	},
   	{
 	name:"Coldplay  Viva La Vida Official Video.mp3", artist:"Coldplay", src:"MMM/Coldplay/Coldplay  Viva La Vida Official Video.mp3"
-
 	}
 ];
